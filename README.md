@@ -1,3 +1,15 @@
+# Hi
+**My name is Ahmad Hawamdeh**
+I am 26 years old
+I studied Management Information Systems at Petra University
+I am graduated in 2016
+I am here because I feel it is a good opportunity to develop my personal skills in programming and to enter a new field of life
+I wish good luck to everybody 
+
+
+
+
+
 | assignment | links |
 |------------:|:-------|
 |read 1 | [mindset](read1.md)|
